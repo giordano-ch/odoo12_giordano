@@ -6,3 +6,8 @@
 	path = OCA/bank-payments
 	url = https://github.com/OCA/bank-payment.git
 	branch = 12.0
+
+[submodule "giordano-ch/mymodule"]
+	path = giordano-ch/mymodule
+	url = git@github.com:giordano-ch/mymodule.git
+	branch = master
